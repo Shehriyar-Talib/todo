@@ -1,0 +1,49 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    
+}
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-size: 25px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+    
+#input-feild{
+    width: 300px;
+    height: 40px;
+    border: solid 1px black;
+    outline: none;
+    vertical-align: middle;
+    font-size: 25px;
+}
+#btn{
+    width: 40px;
+    height : 44px;
+    border: solid 1px black;
+    font-size: 30px;
+}
+#todo-container{
+    width: 346px;
+    margin-top: 10px;
+    cursor: pointer;
+    
+}
+.sec-con{
+    display:flex;
+    justify-content : center;
+    
+ }  
+    
